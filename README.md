@@ -1,6 +1,6 @@
 ## Hello!
 
-My name is Dylan. I'm a software engineer who's always interested to learn about programming languages, frameworks and various computer science concepts. 
+My name is Dylan. I'm a software engineer & full-stack developer who is always interested to learn about programming languages, frameworks and various computer science concepts. 
 
 I love experimenting with different technologies and tinkering with new things. I also spend a lot of time in Linux virtual machines.
 

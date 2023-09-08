@@ -4,6 +4,8 @@ Greetings, I'm Dylan, a seasoned software engineer and proficient full-stack dev
 
 My passion for technology is palpable in my ceaseless experimentation with emerging tools and my penchant for embracing novel concepts. GitHub serves as my dedicated workshop, where I embark on a journey of discovery through an array of projects. It's here that I gather valuable insights into problem-solving and craft innovative solutions. Join me as I navigate the ever-evolving landscape of software development.
 
+<!--
+
 &nbsp;
 
 ## My Technical Palette: Expertise and Preferences
